@@ -1,0 +1,5 @@
+
+.icon-trash-empty:before { content: '\e800'; } /* '' */
+.icon-cancel-circled-outline:before { content: '\e801'; } /* '' */
+.icon-cancel-circled:before { content: '\e802'; } /* '' */
+.icon-cancel:before { content: '\e803'; } /* '' */
